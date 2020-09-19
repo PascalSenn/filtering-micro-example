@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/sepa/.dotnet/store/|arch|/|tfm|",
+      "/home/sepa/.nuget/packages"
+    ]
+  }
+}
